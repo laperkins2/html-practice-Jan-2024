@@ -4,7 +4,7 @@
 
 This is a website about Food
 
-It will contain a variety of HTML tags and content to describe different food varities.
+It will contain a variety of HTML tags and content to describe different food varities. It will also contain a new file that has three order lists.
 
 The tags will include headers, paragraph, lists, images, anchors, and tables.
 
