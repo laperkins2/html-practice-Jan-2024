@@ -8,6 +8,8 @@ It will contain a variety of HTML tags and content to describe different food va
 
 The tags will include headers, paragraph, lists, images, anchors, and tables.
 
+Anchor tags created to link to other pages
+
 ## Built With
 
 - HTML
@@ -16,11 +18,11 @@ The tags will include headers, paragraph, lists, images, anchors, and tables.
 
 Day 1
 
-- [ ] head, title, and body tags
-- [ ] Headers (h1, h2) and Paragraph p
-- [ ] article tag
-- [ ] nested h1, h2, and p tags within the article tag
-- [ ] more article tags
+- [x ] head, title, and body tags
+- [x ] Headers (h1, h2) and Paragraph p
+- [x ] article tag
+- [x ] nested h1, h2, and p tags within the article tag
+- [x ] more article tags
 
 ## Contact
 
