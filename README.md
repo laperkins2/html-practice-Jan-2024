@@ -8,7 +8,9 @@ It will contain a variety of HTML tags and content to describe different food va
 
 The tags will include headers, paragraph, lists, images, anchors, and tables.
 
-Anchor tags created to link to other pages
+Anchor tags created to link to other pages.
+
+Some javascript was added for extra credit.
 
 ## Built With
 
